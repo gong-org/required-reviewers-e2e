@@ -1,0 +1,4 @@
+# CODEOWNERS: ownership and notification only. Does NOT block merges.
+# Required reviews are enforced by the "require-sql-review" ruleset instead.
+* @gong-org/codeowners-team
+db/ @gong-org/sql-reviewers
